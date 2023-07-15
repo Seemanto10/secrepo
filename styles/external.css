@@ -1,0 +1,19 @@
+h2{
+    font-size: xx-large;
+    background-color: aqua;
+    
+   
+
+}
+p{
+    font-size: larger;
+    background-color: burlywood;
+    
+    
+}
+.blog{
+    margin: 50px;
+    border: 20px rgb(193, 15, 15);
+    box-shadow: 25px 25px black ;
+
+}
